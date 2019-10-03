@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Achievements"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "6th InterIIT Tech Meet"
+  organization_url = ""
+  title = "3rd in **Safety devices for Fishing vessels** problem statement. "
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-01-07"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Kishore Vaigyanik Protsahan Yojna (KVPY)"
+  organization_url = "http://www.kvpy.iisc.ernet.in/"
+  title = "Research Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "JEE Advanced"
+  organization_url = ""
+  title = "All India Rank 1915"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Roller Skating"
+  organization_url = ""
+  title = "National Level Winner"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-12-01"
+  date_end = ""
   description = ""
 
 +++
